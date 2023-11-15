@@ -21,9 +21,10 @@
 
 <h2 align="center">🙋‍♂️ Connect with me 🙋‍♂️</h2>
 <div align="center">
-  <a href="https://fb.com/tuanboi161" target="blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" /></a>
-  <a href="https://instagram.com/tuanboiii" target="blank"> <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" /></a>
-  <a href="https://www.youtube.com/@atuandev" target="blank"><img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" /></a>
+  <a href="https://fb.com/tuanboi161" target="blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" /></a>
+  <a href="https://instagram.com/tuanboiii" target="blank"> <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" /></a>
+  <a href="https://www.youtube.com/@atuandev" target="blank"><img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" /></a>
+  <a href="mailto:anhtuan03.dev@gmail.com" target="top"><img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email"/></a>
 </div>
 
 <h2 align="center">🔥 Github Stats 🔥</h2>
