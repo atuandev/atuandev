@@ -20,7 +20,7 @@
 <div align="center">
   <a href="https://fb.com/tuanboi161" target="_blank"><img src="/images/facebook.png" alt="facebook" /></a>
   <a href="https://instagram.com/tuanboiii" target="_blank"> <img src="/images/instagram.png" alt="instagram" /></a>
-  <a href="https://www.youtube.com/@atuandev" target="_blank"><img src="/images/youtube.png" alt="youtube" /></a>
+  <a href="https://www.youtube.com/@atuandev" target="_blank"><img src="/images/youtube.png" alt="youtube"/></a>
   <a href="mailto:anhtuan03.dev@gmail.com" target="_blank"><img src="/images/mail.png" alt="email"/></a>
 </div>
 
