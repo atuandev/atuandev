@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /> &nbsp;
   <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/NextJS-282C34?logo=nextdotjs&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/NextJS-282C34?logo=nextdotjs&logoColor=ffffff" alt="Next.js logo" title="Next.js" height="25" /> &nbsp;
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />  &nbsp;
   <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />&nbsp;
