@@ -1,10 +1,15 @@
 [![MasterHead](/images/thumbnail.gif)](https://github.com/atuandev)
 <h2>Hi 👋, I'm Anh Tuan</h2>
 <p>A professional Web Developer from Viet Nam</p>
-<ul>
-  <li>I'm currently senior student at university</li>
-  <li>I'm currently learning <strong>NextJS</strong> and <strong>NestJS</strong></li>
-</ul>
+
+<div>
+  <ul>
+    <li>I'm currently senior student at university</li>
+    <li>I'm currently learning <strong>NextJS</strong> and <strong>NestJS</strong></li>
+  </ul>
+  <img src='/images/otta.gif' alt='Otta' />
+  <img src='/images/otta.gif' alt='Otta' />
+</div>
 <br/>
 
 <h2>Technologies 💻</h2>
