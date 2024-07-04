@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>I'm currently senior student at university</li>
-    <li>I'm currently learning <strong>NextJS</strong> and <strong>NestJS</strong></li>
+    <li>I'm currently learning <strong>NextJS</strong> and <strong>Java Spring</strong></li>
   </ul>
   <img src='/images/otta.gif' alt='Otta' />
   <img src='/images/otta.gif' alt='Otta' />
@@ -21,7 +21,7 @@
 
 <h3>Back-end</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,prisma)](https://skillicons.dev)
 <h3>Database</h3>
   
 [![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres)](https://skillicons.dev)
