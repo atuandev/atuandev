@@ -32,15 +32,6 @@
   
 [![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,postman,bun,discord,notion)](https://skillicons.dev)
 
-<br/>
-<h2>Connect with me 🙋‍♂️</h2>
-<div>
-  <a href="https://fb.com/tuanboi161" target="_blank"><img src="/images/facebook.png" alt="facebook" /></a>
-  <a href="https://instagram.com/tuanboiii" target="_blank"> <img src="/images/instagram.png" alt="instagram" /></a>
-  <a href="https://www.youtube.com/@atuandev" target="_blank"><img src="/images/youtube.png" alt="youtube"/></a>
-  <a href="mailto:anhtuan03.dev@gmail.com" target="_blank"><img src="/images/mail.png" alt="email"/></a>
-</div>
-
 <h2>Github Stats 🔥</h2>
 <div>
   <a href="#" title="atuandev">
