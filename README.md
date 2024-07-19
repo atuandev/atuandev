@@ -4,7 +4,7 @@
 
 <div>
   <ul>
-    <li><p>💻 My portfolio: <a href="https://atuandev-portfolio.vercel.app/" target="_blank">atuandev</a></p></li>
+    <li><p>💻 My portfolio: <a href="https://atuandev.vercel.app/" target="_blank">atuandev</a></p></li>
     <li><p>🏫 I'm currently senior student at university</p></li>
     <li><p>📚 I'm currently learning <strong>NextJS</strong> and <strong>Java Spring</strong></p></li>
     <li><p>📧 Contact me at: <a href="mailto:atuandev@gmail.com"><strong>atuandev@gmail.com</strong></a></p></li>
