@@ -17,19 +17,23 @@
 <h2>Technologies 💻</h2>
 <h3>Front-end</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&perline=7)](https://skillicons.dev)
 
 <h3>Back-end</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,prisma)](https://skillicons.dev)
-<h3>Database</h3>
-  
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,redis,prisma&perline=7)](https://skillicons.dev)
+
 <h3>Tools</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,postman,bun,discord,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,postman,bun,discord,notion,figma&perline=7)](https://skillicons.dev)
+
+<h3>Database</h3>
+  
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
+
+<h3>IDE</h3>
+  
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,idea&perline=7)](https://skillicons.dev)
 
 <h2>Github Stats 🔥</h2>
 <div>
