@@ -15,13 +15,13 @@
 <br/>
 
 <h2>Technologies 💻</h2>
-<h3>Front-end</h3>
+<h3>Frontend</h3>
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&perline=7)](https://skillicons.dev)
 
-<h3>Back-end</h3>
+<h3>Backend</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,redis,prisma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,prisma,hibernate&perline=7)](https://skillicons.dev)
 
 <h3>Tools</h3>
   
@@ -29,7 +29,7 @@
 
 <h3>Database</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,redis)](https://skillicons.dev)
 
 <h3>IDE</h3>
   
