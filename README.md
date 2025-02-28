@@ -9,11 +9,8 @@
     <li><p>📚 I'm currently learning <strong>NextJS</strong> and <strong>Java Spring</strong></p></li>
     <li><p>📧 Contact me at: <a href="mailto:atuandev@gmail.com"><strong>atuandev@gmail.com</strong></a></p></li>
   </ul>
-  <img src='/images/otta.gif' alt='Otta' />
-  <img src='/images/otta.gif' alt='Otta' />
 </div>
 <br/>
-
 <h2>Technologies 💻</h2>
 <h3>Frontend</h3>
   
