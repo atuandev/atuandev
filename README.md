@@ -28,16 +28,3 @@
   
 [![My Skills](https://skillicons.dev/icons?i=mongo,postgres,redis)](https://skillicons.dev)
 
-<h3>IDE</h3>
-  
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea&perline=7)](https://skillicons.dev)
-
-<h2>Github Stats 🔥</h2>
-<div>
-  <a href="#" title="atuandev">
-    <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=atuandev&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="atuandev" />
-  </a>
-  <a href="#" title="atuandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=atuandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="atuandev" />
-  </a>
-</div>
